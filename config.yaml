@@ -1,8 +1,0 @@
-exchange: "binance"
-symbol: "BTC/USDT"
-timeframe: "15m"
-risk_per_trade: 0.01
-sl_atr_mult: 1.5
-tp_mult: 1.5
-log_dir: "logs/"
-plot_dir: "plots/"
